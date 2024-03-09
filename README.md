@@ -16,7 +16,7 @@ Technologies: Relies on Object-Oriented Programming, emphasizing fundamental con
 Development Environment: Compatible with Visual Studio Code 2022 and Eclipse IDE for enterprise Java and web development 2023-06.
 Extensions: Requires specific extensions such as Extension Pack for Java and Maven for Java in Visual Studio Code.
 Purpose:
-## how to Run 
+## How to Run 
 1- Install these
  * [Java SE Development Kit 17 (JDK 17)(https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
  * After installing JDK 8, install [Eclipse IDE](https://eclipseide.org/downloads/)
